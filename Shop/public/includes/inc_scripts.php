@@ -1,0 +1,9 @@
+<script src="js/jquery-1.12.3.min.js"></script> 
+<script src="../../../../cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
+<script src="js/bootstrap.min.js"></script>  
+<script src="js/jquery.downCount.js"></script>
+<script src="js/jquery-ui.min.js"></script> 
+<script src="js/fotorama.js"></script>
+<script src="js/jquery.magnific-popup.js"></script> 
+<script src="js/owl.carousel.min.js"></script>  
+<script src="js/custom.js"></script>

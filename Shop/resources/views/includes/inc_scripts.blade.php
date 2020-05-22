@@ -1,0 +1,9 @@
+<script src="{{ asset('js/jquery-1.12.3.min.js')}}"></script>
+<script src="../../../../cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
+<script src="{{ asset('js/bootstrap.min.js')}}"></script>
+<script src="{{ asset('js/jquery.downCount.js')}}"></script>
+<script src="{{ asset('js/jquery-ui.min.js')}}"></script>
+<script src="{{ asset('js/fotorama.js')}}"></script>
+<script src="{{ asset('js/jquery.magnific-popup.js')}}"></script>
+<script src="{{ asset('js/owl.carousel.min.js')}}"></script>
+<script src="{{ asset('js/custom.js')}}"></script>
